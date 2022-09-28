@@ -27,7 +27,7 @@ document.getElementById("login-form").addEventListener("submit", function (e) {
 
     saveSession(email, checkSession);
 
-    window.location.href = "home.html";
+    window.location.href = "index.html";
   }
 });
 
